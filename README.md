@@ -1,6 +1,6 @@
 ## 2023 YouTube Statistics - Popularity, Earnings, Views, and Growth.
 
-📌 **Check out the finding summary report in this [pdf](https://github.com/angie-xiao/yt_2023/blob/yt_stats_2023/YouTube%202023%20Stats%20Report.pdf).**
+📌 **Check out the finding summary report in this [pdf](https://github.com/angie-xiao/yt_2023/blob/yt_stats_2023/Summary%20Report.pdf).**
 
 This is a descriptive project that explores and illustrates answers to these following questions:
 
