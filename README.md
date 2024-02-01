@@ -1,5 +1,14 @@
-## 2023 YouTube Statistics - Popularity, Earnings, Views, and Growth.
+# 2023 YouTube Statistics - Popularity, Earnings, Views, and Growth.
 
+**Table of Contents**
+- [2023 YouTube Statistics - Popularity, Earnings, Views, and Growth.](#2023-youtube-statistics---popularity-earnings-views-and-growth)
+  - [Abstract](#abstract)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## Abstract
 📌 **Check out the finding summary report in this [pdf](https://github.com/angie-xiao/yt_2023/blob/yt_stats_2023/Summary%20Report.pdf).**
 
 This is a descriptive project that explores and illustrates answers to these following questions:
@@ -20,19 +29,12 @@ Users (e.g. creators and marketing agencies) could use findings in this project 
 
 The dataset, [Global YouTube Statistics 2023](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023), was obtained from Kaggle. 
 
-## Table of Contents
-- [2023 YouTube Statistics - Popularity, Earnings, Views, and Growth.](#2023-youtube-statistics---popularity-earnings-views-and-growth)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 1. Clone the repo:
    ```bash
    # terminal
-   git clone https://github.com/ourusername/yourproject.git
+   git clone https://github.com/angie-xiao/yt_2023
    ```
 2. Install dependencies:
    ```bash
